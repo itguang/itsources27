@@ -74,6 +74,11 @@ public class OrdersEntity<T> implements Serializable {
 	 */
 					
 	private Long goodid;
+
+	/**
+	 * 商家账号
+	 */
+	private String shangjiazhanghao;
 	
 	/**
 	 * 商品名称
@@ -359,4 +364,11 @@ public class OrdersEntity<T> implements Serializable {
 		return consignee;
 	}
 
+	public String getShangjiazhanghao() {
+		return shangjiazhanghao;
+	}
+
+	public void setShangjiazhanghao(String shangjiazhanghao) {
+		this.shangjiazhanghao = shangjiazhanghao;
+	}
 }

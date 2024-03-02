@@ -127,7 +127,7 @@ public class DingdanxinxiEntity<T> implements Serializable {
 	 * 金额
 	 */
 					
-	private Integer jine;
+	private Float jine;
 	
 	/**
 	 * 订单状态
@@ -319,13 +319,13 @@ public class DingdanxinxiEntity<T> implements Serializable {
 	/**
 	 * 设置：金额
 	 */
-	public void setJine(Integer jine) {
+	public void setJine(Float jine) {
 		this.jine = jine;
 	}
 	/**
 	 * 获取：金额
 	 */
-	public Integer getJine() {
+	public Float getJine() {
 		return jine;
 	}
 	/**
