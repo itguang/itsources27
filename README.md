@@ -1,5 +1,5 @@
-# itsources27
-【校园网上租赁交易系统设计与实现】springboot+vue前后端分离+论文+部署文档
+# 【校园网上租赁交易系统设计与实现】springboot+vue前后端分离+论文+部署文档
+
 ![ITSource.jpg](https://itguang.oss-cn-beijing.aliyuncs.com/202403022139055.jpg)
 项目介绍
 本课题是根据用户的需要以及网络的优势建立的一个基于Spring Boot的网上租贸系统，来满足用户网络商品租赁的需求。
