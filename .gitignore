@@ -38,3 +38,4 @@ build/
 out
 gen
 /src/main/resources/admin/admin/node_modules/
+/src/main/resources/db/migration/
